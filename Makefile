@@ -1,5 +1,7 @@
 #
 # Copyright (C) 2013 Zoltan Hubai
+# Thunder Timecloud (100% working)
+# Phicomm N1 (ipk install ok, run in error)
 #
 
 include $(TOPDIR)/rules.mk

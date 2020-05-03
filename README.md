@@ -48,5 +48,6 @@ Make the resulting *ddserver* binary executable and launch the server:
 ## Compile Successfully for the following OpenWrt Routers
 
 	Thunder Timecloud (100% working)
+	Xiaomi MiWiFi Mini (100% working)
 	Phicomm N1 (ipk install ok, run in error)
 	
